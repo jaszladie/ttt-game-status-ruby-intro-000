@@ -57,5 +57,6 @@ end
 end
 
 def winner(board)
-return win_combination
+win_combination = won?(board)
+
 end
