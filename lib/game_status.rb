@@ -55,3 +55,7 @@ else
   false
 end
 end
+
+def winner(board)
+return win_combination
+end
